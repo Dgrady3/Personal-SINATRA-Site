@@ -19,4 +19,3 @@ end
 get '/portfolio' do
   erb :about
 end
-
